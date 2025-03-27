@@ -14,21 +14,21 @@ API_HASH = getenv("API_HASH", "0")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", "0")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","@UTTAM470")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@TG_PROFESS0R")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "BABY_MUSIC09_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@Spottfy_music_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+BOT_NAME = getenv("BOT_NAME" , "╼⃝˹ 𝗦𝗣𝗢𝗧𝗜𝗙𝗬˼ ✘ ˹𝗠𝗨𝗦𝗜𝗖˼⛦⃕͜🇮🇳")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+ASSUSERNAME = getenv("ASSUSERNAME" , "˹ 𝗦𝗣𝗢𝗧𝗜𝗙𝗬˼ ✘ ˹𝗠𝗨𝗦𝗜𝗖˼⛦⃕͜🇮🇳")
 
-API_KEY = "abc921ff654bcf7b3faff8f775d781d27d32bfd02d6692eea30249ba781c8b"  # अपना API key यहाँ डालें
+API_KEY = "7628911923:AAEmZ7c832oMHONI1WxOGWmi8fvSIpoLA6U"  # अपना API key यहाँ डालें
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://TEAMBABY01:UTTAMRATHORE09@cluster0.vmjl9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://shivam07638:shivam07638@cluster0.vdk8c6e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -55,7 +55,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/BABY-MUSIC/SPOTIFY_MUSIC",
+    "https://github.com/OGNOBITA12/SPOTIFY_MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -69,10 +69,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BABY09_WORLD")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+OL6jdTL7JAJjYzVl")
-SOURCE = getenv("SOURCE", "https://github.com/BABY-MUSIC/SPOTIFY_MUSIC")
-CHAT = getenv("CHAT", "https://t.me/chattinghuboo")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MUSIC_BOT_UPDATE")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MUSIC_BOT_UPDATE")
+SOURCE = getenv("SOURCE", "https://github.com/OGNOBITA12/SPOTIFY_MUSIC")
+CHAT = getenv("CHAT", "https://t.me/MUSIC_BOT_UPDATE")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -139,21 +139,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/xhpqtp.jpg"
+    "START_IMG_URL", "https://ibb.co/2GN5x8R"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/fd827f9a4fe8eaa3e8bf4.jpg"
+    "PING_IMG_URL", "https://ibb.co/2GN5x8R"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/c832e84cd991c865c7e4f.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e575ae40d6635250974e1.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/4dc854f961cd3ce46899b.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
+PLAYLIST_IMG_URL = "https://ibb.co/2GN5x8R"
+STATS_IMG_URL = "https://ibb.co/2GN5x8R"
+TELEGRAM_AUDIO_URL = "https://ibb.co/2GN5x8R"
+TELEGRAM_VIDEO_URL = "https://ibb.co/2GN5x8R"
+STREAM_IMG_URL = "https://ibb.co/2GN5x8R"
+SOUNCLOUD_IMG_URL = "https://ibb.co/2GN5x8R"
+YOUTUBE_IMG_URL = "https://ibb.co/2GN5x8R"
+SPOTIFY_ARTIST_IMG_URL = "https://ibb.co/2GN5x8R"
+SPOTIFY_ALBUM_IMG_URL = "https://ibb.co/2GN5x8R"
+SPOTIFY_PLAYLIST_IMG_URL = "https://ibb.co/2GN5x8R"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
