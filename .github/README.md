@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://ibb.co/2GN5x8R">
+  <img src="https://files.catbox.moe/ockgwx.jpg">
 </p>
 
 <p align="center">
