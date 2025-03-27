@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://files.catbox.moe/ockgwx.jpg">
+  <img src="https://ibb.co/2GN5x8R">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BABY-MUSIC/SPOTIFY_MUSIC)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://https://github.com/OGNOBITA12/SPOTIFY_MUSIC)
 
 ---
 
